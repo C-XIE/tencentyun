@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">这个小姐姐好漂亮</h1>
         </header>
         <p className="App-intro">
-          <img width={200} height={320} src={process.env.PUBLIC_URL+'wm.jpg'} alt='' />
+          <img width={200} height={320} src={process.env.PUBLIC_URL+'wm.JPG'} alt='' />
         </p>
       </div>
     );
